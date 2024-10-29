@@ -6,6 +6,15 @@
 
 Implementation of InceptionV1, proposed on [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) by Szegedy et al
 
+### Index
+
+1. [InceptionV1](InceptionV1)
+   1. [Implementation](InceptionV1/inceptionv1.py)
+   2. [Notes](InceptionV1/V1notes.md)
+2. [InceptionV3](InceptionV3)
+   1. [Implementation](InceptionV3/inceptionv3.py)
+   2. [Notes](InceptionV3/V3notes.md)
+
 ### Usage
 
 1. Clone the Repo
