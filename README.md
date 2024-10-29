@@ -1,10 +1,10 @@
 <div align = 'center'>
-<img src = 'https://miro.medium.com/v2/resize:fit:2000/1*UItPkoIvPZR5iXgzVgap6g.png'>
+<img src = 'https://production-media.paperswithcode.com/methods/Screen_Shot_2020-06-22_at_3.22.39_PM.png'>
 </div>
 
-## InceptionV1
+# InceptionVX
 
-Implementation of InceptionV1, proposed on [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) by Szegedy et al
+Notes and Implementation of InceptionV1, InceptionV3, and InceptionV4!
 
 ### Index
 
@@ -14,6 +14,14 @@ Implementation of InceptionV1, proposed on [Going Deeper with Convolutions](http
 2. [InceptionV3](InceptionV3)
    1. [Implementation](InceptionV3/inceptionv3.py)
    2. [Notes](InceptionV3/V3notes.md)
+
+### TODO
+
+- [ ] InceptionV4 Implementation and Notes
+
+## InceptionV1
+
+Implementation of InceptionV1, proposed on [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) by Szegedy et al
 
 ### Usage
 
